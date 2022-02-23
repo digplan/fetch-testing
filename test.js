@@ -1,0 +1,1 @@
+console.log('test js ok ' + new Date().toISOString())
