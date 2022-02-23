@@ -1,6 +1,6 @@
 {
     "name": "fetch-testing",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "main": "test.js",
     "description": "Endpoints to test browser and node fetches"
 }
