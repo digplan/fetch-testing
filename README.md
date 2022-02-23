@@ -12,4 +12,7 @@ fetch('https://unpkg.com/fetch-testing/test.json')
   test()
 </script>
 
+Server Sent Events (SSE):
+https://tinyurl.com/fetch-testing-sse
+
 ````
