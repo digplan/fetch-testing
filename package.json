@@ -1,5 +1,5 @@
 {
-    "name": "fetch-test",
+    "name": "fetch-testing",
     "version": "0.0.1",
     "main": "test.js",
     "description": "Endpoints to test browser and node fetches"

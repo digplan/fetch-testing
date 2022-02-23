@@ -1,14 +1,14 @@
 From your client:
 
 ````
-fetch('https://unpkg.com/fetch-test/test.json')
+fetch('https://unpkg.com/fetch-testing/test.json')
 
-<script src='https://unpkg.com/fetch-test/test.js'></script>
+<script src='https://unpkg.com/fetch-test/testing.js'></script>
 
-<link rel='stylesheet' href='https://unpkg.com/fetch-test/test.css'>
+<link rel='stylesheet' href='https://unpkg.com/fetch-testing/test.css'>
 
 <script type='module'>
-  import { test } from 'https://unpkg.com/fetch-test/test-module.js'
+  import { test } from 'https://unpkg.com/fetch-testing/test-module.js'
   test()
 </script>
 
